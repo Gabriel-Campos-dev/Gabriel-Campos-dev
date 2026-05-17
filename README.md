@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Campos-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Campos-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-</div>
-
----
-
 ## 📌 Projetos em destaque
 
 ### 🌐 [ms-solucoes](https://github.com/Gabriel-Campos-dev/ms-solucoes)

@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Olá, sou Gabriel Campos de Oliveira
 
-<!--
-**Gabriel-Campos-dev/Gabriel-Campos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+**Desenvolvedor Full-Stack em formação · Recife, PE 🌴**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+- 💻 Desenvolvedor Full-Stack em formação, com foco em **Java**, **Node.js** e **React**
+- 📚 Atualmente estudando desenvolvimento web, APIs RESTful e boas práticas de código
+- 🌎 Baseado em **Recife, PE** — uma das cidades com maior crescimento tech do Brasil
+- 🎯 Objetivo: construir produtos que resolvam problemas reais
+- 📬 Contato: gabrielcamposdeoliveir@gmail.com
+
+---
+
+## 🛠️ Tecnologias & ferramentas
+
+| Front-end | Back-end | Banco de dados | Ferramentas |
+|-----------|----------|----------------|-------------|
+| HTML5 · CSS3 · JavaScript · React | Node.js · Express · REST APIs | PostgreSQL · MySQL | Git · GitHub · VS Code · Postman |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Campos-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Campos-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+### 🌐 [ms-solucoes](https://github.com/Gabriel-Campos-dev/ms-solucoes)
+Landing page institucional da empresa M&S Soluções · `HTML` `CSS`
+
+> *(Mais projetos chegando em breve...)*
+
+---
+
+## 📫 Me encontre por aí
+
+- 📧 E-mail: gabrielcamposdeoliveir@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/
+gabriel-campos-967bb7370
